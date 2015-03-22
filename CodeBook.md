@@ -61,3 +61,4 @@ How run_analysis.R implements the above steps:
   4. Extract the mean and standard deviation column names and data.
   5. Process the data. There are two parts processing test and train data respectively.
   6. Merge data set.
+
