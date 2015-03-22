@@ -5,7 +5,7 @@ The main goal is to run run_analysis.R
 
   The R program assumes the data is already downloaded to your working directory 
   
-      The name of the file used is “getdata-projectfiles-UCI HAR Dataset.zip”.
+      The name of the file used is “getdata_projectfiles_UCI HAR Dataset.zip”.
   
   If you open the R console and type in source(“run_analysis.R”), it will complete the cleaning data process.
   
